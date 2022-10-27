@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">HelloWorld2022</string>
+
+    <string-array name="football_teams_full_txt">
+    <item>Arsenal</item>
+    <item>brighton</item>
+    <item>chelsea</item>
+    <item>crystal_palace</item>
+    <item>liverpool</item>
+    <item>manchester_city</item>
+    <item>newcastle</item>
+    <item>tottenham</item>
+    <item>west_ham</item>
+    </string-array>
+
+
+    <string-array name="football_teams_three_letter_txt">
+        <item>Ars</item>
+        <item>bri</item>
+        <item>che</item>
+        <item>cry</item>
+        <item>liv</item>
+        <item>mci</item>
+        <item>new</item>
+        <item>tot</item>
+        <item>wes</item>
+    </string-array>
+
+    <string-array name="football_teams_one_letter_txt">
+        <item>A</item>
+        <item>b</item>
+        <item>c</item>
+        <item>c</item>
+        <item>l</item>
+        <item>m</item>
+        <item>n</item>
+        <item>t</item>
+        <item>w</item>
+    </string-array>
+
+</resources>
